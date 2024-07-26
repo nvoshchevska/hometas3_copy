@@ -1,0 +1,8 @@
+#Logs and DB#
+*.log
+*.db
+*.sql
+
+#Folder"
+bin/
+target/
